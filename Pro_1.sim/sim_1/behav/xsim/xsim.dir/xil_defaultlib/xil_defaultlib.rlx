@@ -1,0 +1,27 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.sim/sim_1/behav/xsim/glbl.v,1685603132,verilog,,,,glbl,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sim_1/new/MIPS_tb.v,1686052046,verilog,,,,MIPS_tb,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/ALU_1.v,1686034810,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/ALU_2.v,,ALU_1,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/ALU_2.v,1686037668,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Add_1.v,,ALU_2,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Add_1.v,1685603134,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Branch.v,,Add_1,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Branch.v,1686059903,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Control_Unit.v,,Branch,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Control_Unit.v,1686034128,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/DDL.v,,Control_Unit,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/DDL.v,1686053659,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Data_memory.v,,DDL,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Data_memory.v,1686038558,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/EX_MEM.v,,Data_memory,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/EX_MEM.v,1686038406,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Equal.v,,EX_MEM,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Equal.v,1686150415,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/ID_EX.v,,Equal,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/ID_EX.v,1686044045,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/IF_ID.v,,ID_EX,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/IF_ID.v,1686150827,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/IMEM.v,,IF_ID,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/IMEM.v,1686151147,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MEM_WB.v,,iMEM,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MEM_WB.v,1686039060,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MIPS_pipeline.v,,MEM_WB,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MIPS_pipeline.v,1686063502,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MUX_1.v,,MIPS_pipeline,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MUX_1.v,1686032762,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MUX_2bit_in.v,,MUX_1,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MUX_2bit_in.v,1686037126,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MUX_5_bit.v,,MUX_2bit_in,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/MUX_5_bit.v,1686037072,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/PC.v,,MUX_5_bit,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/PC.v,1686059903,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Shifter.v,,PC,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/Shifter.v,1686034738,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/register_file.v,,Shifter,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/register_file.v,1686151059,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/sign_extend.v,,register_file,,,,,,,,
+C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sources_1/new/sign_extend.v,1685603134,verilog,,C:/Users/오형우/OneDrive - 한양대학교/바탕 화면/Pro_1/Pro_1.srcs/sim_1/new/MIPS_tb.v,,sign_extend,,,,,,,,
